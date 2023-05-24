@@ -1,0 +1,9 @@
+* fast-websocket
+
+Optimized low-level WebSocket protocol parser written in Common
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/fukamachi/fast-websocket.git |
+| commit  | baeeadd                                             |
+| systems | fast-websocket                                      |
+|---------+-----------------------------------------------------|
