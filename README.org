@@ -4,6 +4,6 @@ Optimized low-level WebSocket protocol parser written in Common
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/fukamachi/fast-websocket.git |
-| commit  | 30a6749                                             |
+| commit  | 66ea866                                             |
 | systems | fast-websocket                                      |
 |---------+-----------------------------------------------------|
