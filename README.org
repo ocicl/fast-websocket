@@ -7,3 +7,4 @@ Optimized low-level WebSocket protocol parser written in Common
 | commit  | 66ea866                                             |
 | systems | fast-websocket                                      |
 |---------+-----------------------------------------------------|
+ 
